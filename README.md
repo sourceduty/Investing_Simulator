@@ -15,6 +15,10 @@ The simulator also supports iterative optimization, enabling users to refine the
 Finally, the 'Investing Simulator' promotes proactive monitoring and rebalancing of simulated portfolios. Users are encouraged to regularly revisit their investment plans, making informed adjustments based on evolving market dynamics and personal financial goals. This ongoing monitoring ensures that the portfolio remains aligned with the desired asset allocation, supporting long-term financial success. By leveraging the 'Investing Simulator,' users can craft, refine, and optimize their investment strategies with confidence and precision.
 
 #
+
+![Pennies](https://github.com/user-attachments/assets/5c91e841-0141-44a9-9a3b-92c391eda125)
+
+#
 ### Related Links
 
 [Budget Balancer](https://chat.openai.com/g/g-XdccpkhI1-budget-balancer)
