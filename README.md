@@ -24,6 +24,8 @@ Finally, the 'Investing Simulator' promotes proactive monitoring and rebalancing
 [Budget Balancer](https://chat.openai.com/g/g-XdccpkhI1-budget-balancer)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
