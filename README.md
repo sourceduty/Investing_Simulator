@@ -1,6 +1,6 @@
 ![Magic Money Wand](https://github.com/sourceduty/Investing_Simulator/assets/123030236/eea1b496-c452-4bd7-95c9-7b3c881aab17)
 
-> Create, plan, and simulate various types of investments.
+> Create, plan, and simulate various types of financial investments.
 
 #
 
