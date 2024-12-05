@@ -26,6 +26,8 @@ Finally, the 'Investing Simulator' promotes proactive monitoring and rebalancing
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
+<br>
+[Investing Automation](https://github.com/sourceduty/Investment_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
